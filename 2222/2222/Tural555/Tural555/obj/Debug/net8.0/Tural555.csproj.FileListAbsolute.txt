@@ -1,0 +1,14 @@
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\bin\Debug\net8.0\Tural555.exe
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\bin\Debug\net8.0\Tural555.deps.json
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\bin\Debug\net8.0\Tural555.runtimeconfig.json
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\bin\Debug\net8.0\Tural555.dll
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\bin\Debug\net8.0\Tural555.pdb
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\obj\Debug\net8.0\Tural555.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\obj\Debug\net8.0\Tural555.AssemblyInfoInputs.cache
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\obj\Debug\net8.0\Tural555.AssemblyInfo.cs
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\obj\Debug\net8.0\Tural555.csproj.CoreCompileInputs.cache
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\obj\Debug\net8.0\Tural555.dll
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\obj\Debug\net8.0\refint\Tural555.dll
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\obj\Debug\net8.0\Tural555.pdb
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\obj\Debug\net8.0\Tural555.genruntimeconfig.cache
+C:\Users\Tural\Desktop\2222\Tural555\Tural555\obj\Debug\net8.0\ref\Tural555.dll

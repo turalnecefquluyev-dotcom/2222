@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tural555", "Tural555\Tural555.csproj", "{DA1BE180-43DF-48C0-AB2F-2996B3FD7230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1BE180-43DF-48C0-AB2F-2996B3FD7230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1BE180-43DF-48C0-AB2F-2996B3FD7230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1BE180-43DF-48C0-AB2F-2996B3FD7230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1BE180-43DF-48C0-AB2F-2996B3FD7230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {262203A9-3723-409A-8C24-57161246B74A}
+	EndGlobalSection
+EndGlobal
